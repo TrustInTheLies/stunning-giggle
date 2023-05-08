@@ -1,0 +1,17 @@
+@import "./base.css";
+
+#app {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+}
